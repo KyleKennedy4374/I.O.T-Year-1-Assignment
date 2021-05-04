@@ -33,3 +33,8 @@ The following images are some of the most important equipment used and the circu
 - Arduino
 - Raspberry Pi
 - Sense Hat
+
+## some quick info for you:
+- In the images file there are some extra pictures that are not displayed on the read me or the circuit file for those interested and there is also a breakdown of the applications and hardware used in a graph that I made.
+
+- Here is a link to a video posted on youtube that just gives a brief walkthrough of the assignment and how it works, hope you enjoy!
